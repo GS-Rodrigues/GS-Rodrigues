@@ -12,8 +12,6 @@ Me chamo Guilherme, tenho 20 anos e sou de Artur Nogueira/SP. Curso Ciência da 
 
 <br>
 
-<p>
-
 ## 🤖 Linguagens e Tecnologias
 
 <img 
