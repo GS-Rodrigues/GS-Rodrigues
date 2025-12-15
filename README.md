@@ -1,25 +1,71 @@
-# Olá, eu sou o Guilherme! 👋
-🎓 **Estudante de Ciências da Computação** 
-💻 **Áreas de Interesse:** Dados e Back-end 
+# 💻 Guilherme Rodrigues
 
-Sou um estudante de Ciências da Computação com uma paixão por **dados** e **back-end**. 
-Gosto de explorar novas tecnologias e aplicar o que aprendo em projetos práticos. 
+**Analista de Dados | Python • SQL • Automação • Web Scraping**
 
-## 🚀 Projetos
-Aqui estão alguns projetos que já desenvolvi:
+Me chamo Guilherme, tenho 20 anos e sou de Artur Nogueira/SP. Curso Ciência da Computação na `UNICAMP`. Trabalho com dados e tecnologia, desenvolvendo automações, pipelines e análises que reduzem trabalho manual e apoiam decisões reais de negócio.
 
-- **Automação Web com Python e Selenium**: Criei um projeto que realiza buscas de conexões e envia mensagens personalizadas automaticamente.
-- **Game de Labirinto**: Desenvolvido com Python e Pygame, onde implementei o algoritmo de **backtracking** para resolver os desafios do jogo.
-- **Jogo Multiplayer Web** (Em desenvolvimento): Atualmente estou trabalhando em um jogo multiplayer utilizando Django, onde estou aprendendo e aplicando conceitos de desenvolvimento web.
 
-## 🌱 Em desenvolvimento
-- Continuo explorando o desenvolvimento de automações web com **Selenium** e estou sempre em busca de novos desafios na área de dados.
+<p align="left">
+    <a href="https://br.linkedin.com/in/-guilherme-rodrigues">
+        <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue.svg?logo=linkedin___"/></a>
+</p>
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python
-- **Frameworks:** Django, Pygame
-- **Outras Ferramentas:** Selenium
+<br>
 
-## 👥 Colaboração
-Sou uma pessoa **proativa e comunicativa** que adora trabalhar em equipe. 
-Prefiro colaborar em grupos, onde acredito que as melhores ideias surgem do trabalho coletivo.
+<p>
+
+## 🤖 Linguagens e Tecnologias
+
+<img 
+    align=left
+    alt="PYTHON"
+    title="PYTHON"
+    width=40px
+    Style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/python/original.svg"
+/>
+<img 
+    align=left
+    alt="JAVA"
+    title="JAVA"
+    width=40px
+    Style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/java/original.svg"
+/>
+<img 
+    align=left
+    alt="C"
+    title="C"
+    width=40px
+    Style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/c/original.svg"
+/>
+<img 
+    align=left
+    alt="POSTGRES"
+    title="POSTGRES"
+    width=40px
+    Style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/postgresql/original.svg"
+/>
+<img 
+    align=left
+    alt="GIT"
+    title="GIT"
+    width=40px
+    Style="padding-right: 10px;"
+    src="https://devicon-website.vercel.app/api/git/original.svg"
+/><br><br><br>
+
+
+
+
+
+## 👨‍💻 Projetos
+
+### 🔹 [Monitor Mercado LME | Web Scraping & Data Pipeline](https://github.com/GS-Rodrigues/webscraping-lme-pipeline)
+Pipeline automatizado para coletar, tratar e armazenar dados do mercado europeu de LME(Aluminio).
+
+🔎 Python, BeautifulSoup, Requests, SQL, GIT <br>
+🔗 Repositório: https://github.com/GS-Rodrigues/webscraping-lme-pipeline
+
