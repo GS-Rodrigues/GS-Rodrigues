@@ -2,7 +2,7 @@
 
 **Analista de Dados | Python • SQL • Automação • Web Scraping**
 
-Me chamo Guilherme, tenho 20 anos e sou de Artur Nogueira/SP. Curso Ciência da Computação na `UNICAMP`. Trabalho com dados e tecnologia, desenvolvendo automações, pipelines e análises que reduzem trabalho manual e apoiam decisões reais de negócio.
+Me chamo Guilherme, tenho 21 anos e sou de Artur Nogueira/SP. Curso Ciência da Computação na `UNICAMP`. Trabalho com dados e tecnologia, desenvolvendo automações, pipelines e análises que reduzem trabalho manual e apoiam decisões reais de negócio.
 
 
 <p align="left">
